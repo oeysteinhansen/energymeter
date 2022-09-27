@@ -1,0 +1,29 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "3073822215a7302532a3aba95d885227ccbb0ac1d41fc4ce510698f736f24c51"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.8"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "modbus-server": {
+            "hashes": [
+                "sha256:7407d4e6d3d6cac2acfd3a5298d2078d22be1efb1122fd22730d6d3299e932b6",
+                "sha256:b8b62005ba61eaab7ab185c8422958d439797ff501aa7f67e4220072b51305a9"
+            ],
+            "index": "pypi",
+            "version": "==0.2.3"
+        }
+    },
+    "develop": {}
+}
